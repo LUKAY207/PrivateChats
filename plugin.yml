@@ -1,0 +1,6 @@
+name: PrivateChats
+main: LUKAY207\PrivateChats\Loader
+authors:
+  - LUKAY207
+version: 1.0.0
+api: 5.0.0
